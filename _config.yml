@@ -1,0 +1,9 @@
+theme: jekyll-theme-primer
+title: Documentation Overview
+description: Code documentation for MBTA rider segmentation package and dashboard
+baseurl:
+markdown: kramdown
+kramdown:
+    math_engine: mathjax
+    input: GFM
+    syntax_highlighter: rouge
