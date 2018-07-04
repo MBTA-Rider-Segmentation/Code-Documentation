@@ -1,4 +1,4 @@
-# 2018 Spring AC297r MBTA Rider Segmentation
+# MBTA Rider Segmentation
 
 Copied code documentation repository from Harvard AC297r 2018 spring Capstone Project course [organization](https://github.com/AC297r-MBTA-2018/).
 
